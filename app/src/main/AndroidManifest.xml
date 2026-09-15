@@ -5,7 +5,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="Adsterra"
+        android:icon="@drawable/ic_launcher"
+        android:roundIcon="@drawable/ic_launcher"
+        android:label="Cek Revenue Coy"
         android:theme="@style/Theme.AdsterraApp"
         android:usesCleartextTraffic="false">
 
